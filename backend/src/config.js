@@ -55,7 +55,7 @@ const CONTRACT_SYMBOL = 'NAAC';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0x788491eC09C59901b3C5ec4F379555945d7762fC';
 const TREASURY_ADDRESS = '0x788491eC09C59901b3C5ec4F379555945d7762fC';
-const MAX_SUPPLY = 4996; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
+const MAX_SUPPLY = 4890; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
 const MINT_PRICE = 0; // Minting price per NFT. Rinkeby = ETH, Polygon = MATIC. CANNOT BE UPDATED!
 const TOKENS_PER_MINT = 3; // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
 

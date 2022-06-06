@@ -2,9 +2,9 @@ const contractAddress = "0x0713DF6118378daae6ACE776e9F1ABB009358304"; //Replace 
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Meoowww!! Welcome to the Not At All Cats NFT Project!!";
-const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'THEY AINT NO CATS!! HANG ON TO FIND OUT WHAT THEY ARE!!';
-const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
+const welcome_h2 = "Connect to MetaMask or get meowed at, Grrrr!";
+const welcome_p = 'WHAT YOU ARE LOOKIN AT, THEY AINT NO CATS!! HANG ON TO FIND OUT WHAT THEY ARE!!';
+const h1_presale_coming_soon = "Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
 const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
