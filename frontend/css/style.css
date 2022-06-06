@@ -1,18 +1,19 @@
 /* FONTS */
 
-@import url('https://fonts.googleapis.com/css2?family=Blaka&family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+</style>
 </style>
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "blaka", sans-serif;
-  --font-secondary: "blaka", serif;
-  --font-code: "blaka", monospace;
-  --bg-color: #fa7500;
+  --font-primary: "Gloria Hallelujah", sans-serif;
+  --font-secondary: "Gloria Hallelujah", serif;
+  --font-code: "Gloria Hallelujah", monospace;
+  --bg-color: #cc6c19;
   --bg-color-transparent: #00163f80;
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
-  --accent-color: #be7efe;
+  --accent-color: #7544a6;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
