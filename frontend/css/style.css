@@ -1,13 +1,13 @@
 /* FONTS */
 
-@import url('https://fonts.googleapis.com/css2?family=Blaka&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+</style>
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "blaka", sans-serif;
-  --font-secondary: "blaka", serif;
-  --font-code: "blaka", monospace;
+  --font-primary: "Press Start 2P", sans-serif;
+  --font-secondary: "Press Start 2P", serif;
+  --font-code: "Press Start 2P", monospace;
   --bg-color: #ff7700;
   --bg-color-transparent: #00163f80;
   --font-color: #ffffff;
