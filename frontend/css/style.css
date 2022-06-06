@@ -6,9 +6,9 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Gloria Hallelujah", sans-serif;
-  --font-secondary: "Gloria Hallelujah", serif;
-  --font-code: "Gloria Hallelujah", monospace;
+  --font-primary: "Gloria+Hallelujah", sans-serif;
+  --font-secondary: "Gloria+Hallelujah", serif;
+  --font-code: "Gloria+Hallelujah", monospace;
   --bg-color: #cc6c19;
   --bg-color-transparent: #00163f80;
   --font-color: #ffffff;
