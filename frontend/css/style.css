@@ -5,9 +5,9 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Press Start 2P", sans-serif;
-  --font-secondary: "Press Start 2P", serif;
-  --font-code: "Press Start 2P", monospace;
+  --font-primary: "blaka", sans-serif;
+  --font-secondary: "blaka", serif;
+  --font-code: "blaka", monospace;
   --bg-color: #fa7500;
   --bg-color-transparent: #00163f80;
   --font-color: #ffffff;
