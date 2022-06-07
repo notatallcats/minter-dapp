@@ -1,4 +1,4 @@
-const contractAddress = "0x0713DF6118378daae6ACE776e9F1ABB009358304"; //Replace with your own contract address
+const contractAddress = "0x7da35CaB56E99A63c2C53479deBF9979A1aaFc32"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Meoowww!! Welcome to the Not At All Cats NFT Project!!";
